@@ -1,5 +1,5 @@
 <h1 align="center">Morteza Hosseinzadeh</h1>
-<h3 align="center">Frontend Software Engineer | Vue, Nuxt, React, TypeScript | Architecture & State Management</h3>
+<h3 align="center">Software Engineer | Full-Stack, Web Architecture & AI Systems</h3>
 
 <br/>
 
