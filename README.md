@@ -7,12 +7,13 @@
 
 ```ts
 const stack = {
-  languages: ["typescript", "javascript (es6+)"],
-  frameworks: ["vue 3", "nuxt 3/4", "react", "next.js"],
-  state: ["pinia", "zustand", "tanstack query"],
-  styling: ["tailwind css", "sass"],
-  testing: ["playwright", "cypress"],
-  tooling: ["vite", "git", "docker"]
+  "languages": ["typescript", "javascript (es6+)", "python"],
+  "frameworks": ["vue 3", "nuxt 3/4", "react", "next.js", "fastapi"],
+  "backend_ai": ["python", "fastapi", "postgresql", "llms", "rag"],
+  "state": ["pinia", "zustand", "tanstack query"],
+  "styling": ["tailwind css", "sass"],
+  "testing": ["playwright", "cypress"],
+  "tooling": ["vite", "git", "docker", "k9s"]
 } as const;
 
 $ git log --oneline --author="morteza hosseinzadeh" --reverse
@@ -32,5 +33,7 @@ k1l2m3n  (2024–2025)  feat: remote work, canada + dubai
 
 n4o5p6q  (2025–...)   feat: senior frontend engineer
                        # own the architecture, not just the components
+n4o5p6q  (2025-...)    feat: software engineer & ai systems
+                       # beyond frontend, scaling backend & intelligent workflows
 
 c3RpbGwgYnVpbGRpbmcgdGhlIHBhcnRzIG5vYm9keSByZXZpZXdz
